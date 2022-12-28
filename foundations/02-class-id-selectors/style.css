@@ -1,14 +1,18 @@
-.pink {
-    background-color: rgb(250, 218, 221);
-    font-family: verdana, "deja vu sans", sans serif;
+.odd {
+    background-color: rgb(242, 208, 208);
+    font-family: Verdana, "DejaVu sans", sans-serif;
 }
 
 #two {
-    color: hex #45b6fe;
+    color: blue;
     font-size: 36px;
 }
-#green {
-    background-color: rgb(184, 253, 184);
+
+.adjust-font-size {
     font-size: 24px;
+}
+
+#four{
     font-weight: bold;
+    background-color: rgb(201, 245, 134);
 }
