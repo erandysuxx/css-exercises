@@ -51,8 +51,7 @@ ul {
 
 .header {
   display: flex;
-  flex-grow: 1
-;
+  flex-grow: 1;
 }
 
 .links {
@@ -61,6 +60,9 @@ ul {
   gap: 15px;
 }
 
+.logo {
+  margin-left: 10px;
+}
 .buttons {
   display: flex;
   align-items: center;

@@ -12,6 +12,30 @@ img {
   font-weight: 900;
 }
 
+/*here will be my changes*/
+.title {
+  text-align: center;
+}
+
+.content {
+  display: flex;
+  justify-content: center;
+  gap: 52px;
+}
+
+.text {
+  text-align: center;
+}
+
+.images {
+  display: flex;
+  justify-content: center;
+}
+
+.width {
+  width: 200px;
+}
+
 /* do not edit this footer */
 .footer {
   position: fixed;
